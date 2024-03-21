@@ -1,0 +1,1 @@
+Este código define uma estrutura HTML básica para uma página web que promove o Alura Plus e seus recursos. Inclui seções para opções de assinatura, descrições dos serviços oferecidos e algumas imagens. O estilo é gerenciado principalmente por um arquivo CSS externo.
